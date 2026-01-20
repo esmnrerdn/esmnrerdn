@@ -12,7 +12,7 @@ Ben 2. sınıf Bilgisayar Mühendisliği öğrencisiyim ve şu anda yazılım ge
 - **Teori:** Mantık Devreleri (Logic Circuits), Algoritma Analizi
 
 📫 **Bana Ulaşın:**
-- [LinkedIn Profilim](https://www.linkedin.com/in/esmanur-erdonmez/)
+- [LinkedIn Profilim](https://www.linkedin.com/in/esmanurerden/)
 - E-posta: (Buraya e-posta adresini yazabilirsin)
 
 ---
