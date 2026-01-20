@@ -13,7 +13,7 @@ Ben 2. sınıf Bilgisayar Mühendisliği öğrencisiyim ve şu anda yazılım ge
 
 📫 **Bana Ulaşın:**
 - [LinkedIn Profilim](https://www.linkedin.com/in/esmanurerden/)
-- E-posta: (Buraya e-posta adresini yazabilirsin)
+- E-posta:esmakubra93@gmail.com
 
 ---
 ⭐️ *Projelerimi incelemeyi unutmayın!*
