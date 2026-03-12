@@ -2,8 +2,8 @@
 
 Ben 2. sınıf Bilgisayar Mühendisliği öğrencisiyim ve şu anda yazılım geliştirme üzerine staj yapıyorum. Full Stack geliştirme, özellikle Backend teknolojileri ve DevOps süreçleri ile ilgileniyorum.
 
-🔭 **Şu an üzerinde çalıştığım proje:**
-- **Codyol CRM:** Portlink: Denizcilik sektöründe lojistik firmaları ile hizmet sağlayıcıları bir araya getiren dijital operasyon yönetim platformu. (Next.js, NestJS, Prisma & Docker)
+🚀 Şu an üzerinde çalıştığım proje:
+Portlink: Denizcilik sektöründe lojistik firmaları ile hizmet sağlayıcıları bir araya getiren dijital operasyon yönetim platformu. (Next.js, NestJS, Prisma & Docker)
   
 ✅ Tamamladığım Projeler:
 Codyol CRM: Tüm sektörün kullanabilmesi için geliştirdiğim, NestJS ve Next.js kullanarak uçtan uca yönetilen kapsamlı bir CRM uygulaması.
