@@ -4,7 +4,7 @@ Ben 2. sınıf Bilgisayar Mühendisliği öğrencisiyim ve şu anda yazılım ge
 
 🔭 **Şu an üzerinde çalıştığım proje:**
 - **Codyol CRM:** Portlink: Denizcilik sektöründe lojistik firmaları ile hizmet sağlayıcıları bir araya getiren dijital operasyon yönetim platformu. (Next.js, NestJS, Prisma & Docker)
-- 
+  
 ✅ Tamamladığım Projeler:
 Codyol CRM: Tüm sektörün kullanabilmesi için geliştirdiğim, NestJS ve Next.js kullanarak uçtan uca yönetilen kapsamlı bir CRM uygulaması.
 
